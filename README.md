@@ -35,17 +35,6 @@ masih belajar, masih sering error, tapi tiap hari ada aja yang baru dipahami.
 
 <br/>
 
-## ✿ stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&bg_color=F4E4DC&title_color=A66E63&icon_color=C48B7C&text_color=7A5148&ring_color=C48B7C&border_radius=14" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&bg_color=F4E4DC&title_color=A66E63&text_color=7A5148&border_radius=14" alt="top langs"/>
-
-</div>
-
-<br/>
-
 ## ✿ projects
 
 - 🌸 **[nama project](https://github.com/USERNAME/nama-repo)**: deskripsi singkat, 1 kalimat aja
