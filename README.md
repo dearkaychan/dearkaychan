@@ -87,7 +87,7 @@ const kaysan = {
 
 ## 🌱 Currently
 
-- 🔭 Working on: *(isi project yang sedang kamu kerjakan)*
+- 🔭 University : UIN Salatiga
 - 📖 Learning: JavaScript DOM, responsive layout, and version control
 - 🎯 Next goal: build a full personal portfolio website
 
