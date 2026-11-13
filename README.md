@@ -1,4 +1,4 @@
-<!-- GANTI semua kata USERNAME dengan username GitHub kamu -->
+<!-- GANTI semua kata dearkaychan dengan dearkaychan GitHub kamu -->
 
 <div align="center">
 
@@ -37,9 +37,9 @@ masih belajar, masih sering error, tapi tiap hari ada aja yang baru dipahami.
 
 ## ✿ projects
 
-- 🌸 **[nama project](https://github.com/USERNAME/nama-repo)**: deskripsi singkat, 1 kalimat aja
-- 🍂 **[nama project](https://github.com/USERNAME/nama-repo)**: deskripsi singkat, 1 kalimat aja
-- 🤎 **[nama project](https://github.com/USERNAME/nama-repo)**: deskripsi singkat, 1 kalimat aja
+- 🌸 **[nama project](https://github.com/dearkaychan/nama-repo)**: deskripsi singkat, 1 kalimat aja
+- 🍂 **[nama project](https://github.com/dearkaychan/nama-repo)**: deskripsi singkat, 1 kalimat aja
+- 🤎 **[nama project](https://github.com/dearkaychan/nama-repo)**: deskripsi singkat, 1 kalimat aja
 
 <br/>
 
@@ -48,7 +48,7 @@ masih belajar, masih sering error, tapi tiap hari ada aja yang baru dipahami.
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-D9A79B?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/melaniesaveme)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-C48B7C?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-C48B7C?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dearkaychan)
 [![Email](https://img.shields.io/badge/Email-A66E63?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keysannaufal5@gmail.com)
 
 <br/>
