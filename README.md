@@ -61,7 +61,7 @@ mood:     caffeinated ☕
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-FF7AA2?style=for-the-badge&logo=instagram&logoColor=white&labelColor=2D2A32)](https://instagram.com/melaniesaveme)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF7AA2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2D2A32)](https://linkedin.com/in/dearkaychan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF7AA2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2D2A32)](https://linkedin.com/in/kaysan-nawfal-ali-09ab73406)
 [![Email](https://img.shields.io/badge/Email-FF7AA2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2D2A32)](mailto:keysannaufal5@gmail.com)
 
 <br/>
