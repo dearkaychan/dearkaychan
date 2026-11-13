@@ -37,7 +37,7 @@ masih belajar, masih sering error, tapi tiap hari ada aja yang baru dipahami.
 
 ## ✿ projects
 
-- 🌸 **OtoFix(https://github.com/dearkaychan/otofix.git))**: Aplikasi jasa montir on the spot berbasis python
+- 🌸 **OtoFix(https://github.com/dearkaychan/otofix.git)**: Aplikasi jasa montir on the spot berbasis python
 
 <br/>
 
