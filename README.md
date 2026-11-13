@@ -37,9 +37,7 @@ masih belajar, masih sering error, tapi tiap hari ada aja yang baru dipahami.
 
 ## ✿ projects
 
-- 🌸 **[nama project](https://github.com/dearkaychan/nama-repo)**: deskripsi singkat, 1 kalimat aja
-- 🍂 **[nama project](https://github.com/dearkaychan/nama-repo)**: deskripsi singkat, 1 kalimat aja
-- 🤎 **[nama project](https://github.com/dearkaychan/nama-repo)**: deskripsi singkat, 1 kalimat aja
+- 🌸 **OtoFix(https://github.com/dearkaychan/otofix.git))**: Aplikasi jasa montir on the spot berbasis python
 
 <br/>
 
